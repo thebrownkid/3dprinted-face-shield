@@ -2,6 +2,8 @@
 
 Based on the [3dverkstan's](https://3dverkstan.se/protective-visor/) 3 hole US version face shield, this is a stackable design that you can use to print multiple shields on top of each other. The design has a small gap between the rows which allows a weak bond to form between consecutive face shields which can be snapped apart into invididual shields.
 
+![Image of the 5 stack model](https://raw.githubusercontent.com/therealrakib/3dprinted-face-shield/master/5%20Stack.JPG)
+
 **I have the 3 stack, 5 stack & 10 stack STL versions uploaded to this repository**
 
 ***If you want to create a stackable version of any other face shield versions or adding a custom number of stacks I have the instructions outlined below***
